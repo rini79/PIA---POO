@@ -1,0 +1,155 @@
+# Blender 4.2.1 LTS MTL File: 'Tiny Store.blend'
+# www.blender.org
+
+newmtl Caramelgreymarble_1
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns C:/Users/reyna/Downloads/uploads_files_5029733_Tiny_Store/Tiny_Store/Textures/caramelgreymarble_1/Caramelgreymarble_1_Roughness.png
+map_refl C:/Users/reyna/Downloads/uploads_files_5029733_Tiny_Store/Tiny_Store/Textures/caramelgreymarble_1/caramelgreymarble_1_Metallic.png
+map_Bump -bm 1.000000 C:/Users/reyna/Downloads/uploads_files_5029733_Tiny_Store/Tiny_Store/Textures/caramelgreymarble_1/Caramelgreymarble_1_Normal.png
+
+newmtl Material.002
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns D:/Game Project/Game object/textures/PavingStones127/PavingStones127_1K_Roughness.jpg
+map_Bump -bm 1.000000 D:/Game Project/Game object/textures/PavingStones127/PavingStones127_1K_NormalGL.jpg
+
+newmtl Material.005
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/Game Project/Game object/textures/Concrete025_1K-JPG/Concrete025_1K_Color.jpg
+map_Ns D:/Game Project/Game object/textures/Concrete025_1K-JPG/Concrete025_1K_Roughness.jpg
+map_Bump -bm 1.000000 D:/Game Project/Game object/textures/Concrete025_1K-JPG/Concrete025_1K_Normal.jpg
+
+newmtl Metal028
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/reyna/Downloads/uploads_files_5029733_Tiny_Store/Tiny_Store/Textures/Metal028/Metal028_Color.jpg
+map_refl C:/Users/reyna/Downloads/uploads_files_5029733_Tiny_Store/Tiny_Store/Textures/Metal028/Metal028_Metalness.jpg
+map_Bump -bm 1.000000 C:/Users/reyna/Downloads/uploads_files_5029733_Tiny_Store/Tiny_Store/Textures/Metal028/Metal028_Normal.jpg
+
+newmtl Plaster001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/reyna/Downloads/uploads_files_5029733_Tiny_Store/Tiny_Store/Textures/Plaster001/Plaster001_Color.png
+map_Bump -bm 1.000000 C:/Users/reyna/Downloads/uploads_files_5029733_Tiny_Store/Tiny_Store/Textures/Plaster001/Plaster001_Normal.png
+
+newmtl Plaster003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/reyna/Downloads/uploads_files_5029733_Tiny_Store/Tiny_Store/Textures/Plaster003/Plaster003_Color.png
+map_Bump -bm 1.000000 C:/Users/reyna/Downloads/uploads_files_5029733_Tiny_Store/Tiny_Store/Textures/Plaster003/Plaster003_Normal.png
+
+newmtl Plastic010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/reyna/Downloads/uploads_files_5029733_Tiny_Store/Tiny_Store/Textures/Plastic010/Plastic010_Color.jpg
+map_Ns C:/Users/reyna/Downloads/uploads_files_5029733_Tiny_Store/Tiny_Store/Textures/Plastic010/Plastic010_Roughness.jpg
+map_Bump -bm 1.000000 C:/Users/reyna/Downloads/uploads_files_5029733_Tiny_Store/Tiny_Store/Textures/Plastic010/Plastic010_Normal.jpg
+
+newmtl Poster1
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/reyna/Downloads/uploads_files_5029733_Tiny_Store/Tiny_Store/Textures/Poster1.jpg
+
+newmtl Wood051
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/reyna/Downloads/uploads_files_5029733_Tiny_Store/Tiny_Store/Textures/Wood051/Wood051_Color.jpg
+map_Bump -bm 1.000000 C:/Users/reyna/Downloads/uploads_files_5029733_Tiny_Store/Tiny_Store/Textures/Wood051/Wood051_Normal.jpg
+
+newmtl WoodFloor040
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns C:/Users/reyna/Downloads/uploads_files_5029733_Tiny_Store/Tiny_Store/Textures/WoodFloor040/WoodFloor040_Roughness.jpg
+map_Bump -bm 1.000000 C:/Users/reyna/Downloads/uploads_files_5029733_Tiny_Store/Tiny_Store/Textures/WoodFloor040/WoodFloor040_Normal.jpg
+
+newmtl WoodSiding005
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns C:/Users/reyna/Downloads/uploads_files_5029733_Tiny_Store/Tiny_Store/Textures/WoodSiding005/WoodSiding005_Roughness.jpg
+map_Bump -bm 1.000000 C:/Users/reyna/Downloads/uploads_files_5029733_Tiny_Store/Tiny_Store/Textures/WoodSiding005/WoodSiding005_Normal.jpg
+
+newmtl Wood_floor_009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 1.000000 C:/Users/reyna/Downloads/uploads_files_5029733_Tiny_Store/Tiny_Store/Textures/Wood_floor_009/Wood_floor_009_Normal.jpg
+
+newmtl glass
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl lighting
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2

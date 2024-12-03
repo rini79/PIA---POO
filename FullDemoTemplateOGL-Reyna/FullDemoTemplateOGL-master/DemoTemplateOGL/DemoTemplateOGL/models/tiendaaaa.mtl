@@ -1,0 +1,166 @@
+# Blender 4.2.1 LTS MTL File: 'Tiny Store.blend'
+# www.blender.org
+
+newmtl Caramelgreymarble_1
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns textures/caramelgreymarble_1/Caramelgreymarble_1_Roughness.png
+map_refl textures/caramelgreymarble_1/caramelgreymarble_1_Metallic.png
+map_Bump -bm 1.000000 textures/caramelgreymarble_1/Caramelgreymarble_1_Normal.png
+
+newmtl Material
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Plaster003/Plaster003_Color.png
+map_Ns textures/Plaster003/Plaster003_Roughness.png
+map_Bump -bm 1.000000 textures/Plaster003/Plaster003_Normal.png
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Plaster001/Plaster001_Color.png
+map_Bump -bm 1.000000 textures/Plaster001/Plaster001_Normal.png
+
+newmtl Material.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Plaster003/Plaster003_Color.png
+map_Bump -bm 1.000000 textures/Plaster003/Plaster003_Normal.png
+
+newmtl Metal028
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Metal028/Metal028_Color.jpg
+map_refl textures/Metal028/Metal028_Metalness.jpg
+map_Bump -bm 1.000000 textures/Metal028/Metal028_Normal.jpg
+
+newmtl Plaster001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Plaster001/Plaster001_Color.png
+map_Bump -bm 1.000000 textures/Plaster001/Plaster001_Normal.png
+
+newmtl Plaster003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Plaster003/Plaster003_Color.png
+map_Bump -bm 1.000000 textures/Plaster003/Plaster003_Normal.png
+
+newmtl Plastic010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Plastic010/Plastic010_Color.jpg
+map_Ns textures/Plastic010/Plastic010_Roughness.jpg
+map_Bump -bm 1.000000 textures/Plastic010/Plastic010_Normal.jpg
+
+newmtl Poster1
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Poster1.jpg
+
+newmtl Wood051
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Wood051/Wood051_Color.jpg
+map_Bump -bm 1.000000 textures/Wood051/Wood051_Normal.jpg
+
+newmtl WoodFloor040
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns textures/WoodFloor040/WoodFloor040_Roughness.jpg
+map_Bump -bm 1.000000 textures/WoodFloor040/WoodFloor040_Normal.jpg
+
+newmtl WoodSiding005
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns textures/WoodSiding005/WoodSiding005_Roughness.jpg
+map_Bump -bm 1.000000 textures/WoodSiding005/WoodSiding005_Normal.jpg
+
+newmtl Wood_floor_009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 1.000000 textures/Wood_floor_009/Wood_floor_009_Normal.jpg
+
+newmtl glass
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl lighting
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2

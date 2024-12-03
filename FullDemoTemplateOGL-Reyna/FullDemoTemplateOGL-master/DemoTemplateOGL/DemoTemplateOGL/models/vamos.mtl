@@ -1,0 +1,14 @@
+# Blender 4.2.1 LTS MTL File: 'vamos.blend'
+# www.blender.org
+
+newmtl base_material
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/corgi_albedo.jpg
+map_Ns textures/corgi_roughness.jpg
+map_refl textures/corgi_metalness.jpg
+map_Bump -bm 1.000000 C:/Users/Downloads/FullDemoTemplateOGL-master(1)/FullDemoTemplateOGL-master/DemoTemplateOGL/DemoTemplateOGL/models/8d3c35c4dce6_a_brown_and_white_c_normals.jpg
